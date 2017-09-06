@@ -11,12 +11,12 @@ const datastore = Datastore({
 
 // The Cloud Datastore key for the new entity
 app.get('/', function(req, res) {
-   console.log('  GET 200 /');
+   console.log('  GET 200', req.originalUrl);
    res.send('green');
 });
 
 app.get('/bible-books/:num', function(req, res) {
-   console.log('  GET 200 /bible-books/' + req.params.num);
+   console.log('  GET 200', req.originalUrl);
    const num = req.params.num;
    const query = datastore.createQuery('BibleBook').filter('BookOrderNumber', parseInt(num)).limit(1);
    datastore.runQuery(query, function(err, row) {
@@ -32,9 +32,22 @@ app.get('/bible-books/:num', function(req, res) {
    });
 });
 
+function getOrderByKey(key) {
+   switch (key) {
+      case 'name':
+         return 'BookName';
+      case 'chapters':
+         return 'ChapterCount'
+      case 'bookNum':
+      default: 
+         return 'BookOrderNumber';
+   }
+}
+
 app.get('/bible-books', function(req, res) {
-   console.log('  GET 200 /bible-books');
-   const query = datastore.createQuery('BibleBook').limit(66).order('BookOrderNumber');
+   console.log('  GET 200', req.originalUrl);
+   var orderByKey = getOrderByKey(req.query.orderBy);
+   const query = datastore.createQuery('BibleBook').limit(66).order(orderByKey);
    datastore.runQuery(query, function(err, rows) {
       var books = rows.map(function(row) {
          return {
@@ -43,6 +56,12 @@ app.get('/bible-books', function(req, res) {
             bookNum: row.BookOrderNumber,
             writtenLang: row.WrittenLanguage
          }
+      }).filter(function(book) {
+         var search = req.query.search;
+         if (search) {
+            return book.name.toLowerCase().indexOf(search.toLowerCase()) > -1;
+         }
+         return book;
       });
       res.send(books);
    });
