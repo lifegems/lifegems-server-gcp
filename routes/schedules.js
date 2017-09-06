@@ -20,10 +20,20 @@ router.get('/schedules/:id', function(req, res) {
    const id = req.params.id;
    const query = datastore.createQuery('ScheduleCheckpoint').filter('ScheduleID', parseInt(id));
    datastore.runQuery(query, function(err, rows) {
-      rows = rows.sort((a,b) => (a.CheckpointID == b.CheckpointID) ? 0 : +(a.CheckpointID > b.CheckpointID) || -1);
-      var sections = rows.filter(r => r.ParentID == 0);
+      rows = rows
+         .sort((a,b) => (a.CheckpointID == b.CheckpointID) ? 0 : +(a.CheckpointID > b.CheckpointID) || -1)
+         .map(r => {
+            return {
+               id: r.CheckpointID,
+               name: r.CheckpointName,
+               parent: r.ParentID,
+               schedule: r.ScheduleID,
+               sections: []
+            }
+         });
+      var sections = rows.filter(r => r.parent == 0);
       sections.forEach(section => {
-         section.sections = rows.filter(r => r.ParentID == section.CheckpointID);
+         section.sections = rows.filter(r => r.parent == section.id);
       });
       res.send(sections);
    });
