@@ -42,6 +42,10 @@ router.get('/checkpoints', function(req, res) {
    console.log('  GET 200', req.originalUrl);
    const query = datastore.createQuery('ScheduleCheckpoint').filter('ScheduleID', parseInt(id));
    datastore.runQuery(query, function(err, rows) {
+      if (rows.length == 0) {
+         res.send(rows);
+         return false;
+      }
       rows = transformQuery(rows);
       var checkpointLevel = getSectionCheckpointLevel(rows);
       var startSections = (parent) ? rows.filter(r => r.parent == parent) : rows.filter(r => (r.code.match(/\./g) || []).length == checkpointLevel);
