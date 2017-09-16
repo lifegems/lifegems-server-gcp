@@ -10,52 +10,74 @@ const datastore = Datastore({
 });
 
 // The Cloud Datastore key for the new entity
-const key = datastore.key(['BibleBook', datastore.int('5629499534213120')]);
+var schedule = {
+  id: 4,
+  code: 'WTALL'
+}
+
+var CP_NUM = 557;
+var YEAR = 2000;
+var KIND = 'ScheduleCheckpoint';
 
 var checkpoints = [
-  {name: "Matthew 21:19-25:46",   parent: 4, schedule: 3},
-  {name: "Mark 11:20-13:37",      parent: 4, schedule: 3},
-  {name: "Luke 20:1-21:38",       parent: 4, schedule: 3},
-  {name: "Matthew 26:1-5, 14-16", parent: 5, schedule: 3},
-  {name: "Mark 14:1, 2, 10, 11",  parent: 5, schedule: 3},
-  {name: "Luke 22:1-6",           parent: 5, schedule: 3},
-  {name: "Matthew 26:17-19",      parent: 6, schedule: 3},
-  {name: "Mark 14:12-16",         parent: 6, schedule: 3},
-  {name: "Luke 22:7-13",          parent: 6, schedule: 3},
-  {name: "Matthew 26:20-35",      parent: 7, schedule: 3},
-  {name: "Mark 14:17-31",         parent: 7, schedule: 3},
-  {name: "Luke 22:14-38",         parent: 7, schedule: 3},
-  {name: "John 13:1-17:26",       parent: 7, schedule: 3},
-  {name: "Matthew 26:36-75",      parent: 7, schedule: 3},
-  {name: "Mark 14:32-72",         parent: 7, schedule: 3},
-  {name: "Luke 22:39-65",         parent: 7, schedule: 3},
-  {name: "John 18:1-27",          parent: 7, schedule: 3},
-  {name: "Matthew 27:1-61",       parent: 7, schedule: 3},
-  {name: "Mark 15:1-47",          parent: 7, schedule: 3},
-  {name: "Luke 22:66-23:56",      parent: 7, schedule: 3},
-  {name: "John 18:28-19:42",      parent: 7, schedule: 3},
-  {name: "Matthew 27:62-66",      parent: 8, schedule: 3},
-  {name: "Mark 16:1",             parent: 9, schedule: 3},
-  {name: "Matthew 28:1-15",       parent: 9, schedule: 3},
-  {name: "Mark 16:2-8",           parent: 9, schedule: 3},
-  {name: "Luke 24:1-49",          parent: 9, schedule: 3},
-  {name: "John 20:1-25",          parent: 9, schedule: 3}
+   { name: `${YEAR}`, code: `${YEAR}WT`, children: [
+      { name: "January 1",    code: "JAN1" },
+      { name: "January 15",   code: "JAN15" },
+      { name: "February 1",   code: "FEB1" },
+      { name: "February 15",  code: "FEB15" },
+      { name: "March 1",      code: "MAR1" },
+      { name: "March 15",     code: "MAR15" },
+      { name: "April 1",      code: "APR1" },
+      { name: "April 15",     code: "APR15" },
+      { name: "May 1",        code: "MAY1" },
+      { name: "May 15",       code: "MAY15" },
+      { name: "June 1",       code: "JUN1" },
+      { name: "June 15",      code: "JUN15" },
+      { name: "July 1",       code: "JUL1" },
+      { name: "July 15",      code: "JUL15" },
+      { name: "August 1",     code: "AUG1" },
+      { name: "August 15",    code: "AUG15" },
+      { name: "September 1",  code: "SEP1" },
+      { name: "September 15", code: "SEP15" },
+      { name: "October 1",    code: "OCT1" },
+      { name: "October 15",   code: "OCT15" },
+      { name: "November 1",   code: "NOV1" },
+      { name: "November 15",  code: "NOV15" },
+      { name: "December 1",   code: "DEC1" },
+      { name: "December 15",  code: "DEC15" }
+   ] }
 ];
 
-var CP_NUM = 22;
-var KIND = 'ScheduleCheckpoint';
-checkpoints.forEach(function(cp) {
+function createRow(cp, parentCode) {
    var saveData = {
       key: datastore.key(KIND),
       data: {
          CheckpointID: CP_NUM,
+         CheckpointCode: parentCode + "." + cp.code,
          CheckpointName: cp.name,
-         ScheduleID: cp.schedule,
-         ParentID: cp.parent
+         ParentCheckpointCode: parentCode,
+         ScheduleID: schedule.id,
       }
    }
+   return saveData;
+}
+
+
+checkpoints.forEach(function(cp) {
+   var saveData = createRow(cp, schedule.code);
+   // console.log(saveData);
    datastore.save(saveData, function(err) {
+      if (err) console.log(err);
       console.log("Saved", cp.name);
    });
    CP_NUM++;
+   cp.children.forEach(child => {
+      var saveData = createRow(child, schedule.code + "." + cp.code);
+      // console.log(saveData);
+      datastore.save(saveData, function(err) {
+         if (err) console.log(err);
+         console.log("Saved", child.name);
+      });
+      CP_NUM++;
+   });
 });
