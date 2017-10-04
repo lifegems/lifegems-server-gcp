@@ -1,0 +1,395 @@
+[
+   {
+      "id": 1,
+      "code": "BIBLEMEMORIAL.NISAN8",
+      "name": "Nisan 8",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 10,
+            "code": "BIBLEMEMORIAL.NISAN8.ONE",
+            "name": "John 11:55-12:1",
+            "parent": "BIBLEMEMORIAL.NISAN8",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "code": "BIBLEMEMORIAL.NISAN9",
+      "name": "Nisan 9",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 11,
+            "code": "BIBLEMEMORIAL.NISAN9.ONE",
+            "name": "Matthew 21:1-11",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 12,
+            "code": "BIBLEMEMORIAL.NISAN9.TWO",
+            "name": "Mark 14:3-9",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 13,
+            "code": "BIBLEMEMORIAL.NISAN9.THREE",
+            "name": "John 12:2-11",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 14,
+            "code": "BIBLEMEMORIAL.NISAN9.FOUR",
+            "name": "Matthew 21:1-11, 14-17",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 15,
+            "code": "BIBLEMEMORIAL.NISAN9.FIVE",
+            "name": "Mark 11:1-11",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 16,
+            "code": "BIBLEMEMORIAL.NISAN9.SIX",
+            "name": "Luke 19:29-44",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 17,
+            "code": "BIBLEMEMORIAL.NISAN9.SEVEN",
+            "name": "John 12:12-19",
+            "parent": "BIBLEMEMORIAL.NISAN9",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "code": "BIBLEMEMORIAL.NISAN10",
+      "name": "Nisan 10",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 18,
+            "code": "BIBLEMEMORIAL.NISAN10.ONE",
+            "name": "Matthew 21:18, 19; 12, 13",
+            "parent": "BIBLEMEMORIAL.NISAN10",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 19,
+            "code": "BIBLEMEMORIAL.NISAN10.TWO",
+            "name": "Mark 11:12-19",
+            "parent": "BIBLEMEMORIAL.NISAN10",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 20,
+            "code": "BIBLEMEMORIAL.NISAN10.THREE",
+            "name": "Luke 19:45-48",
+            "parent": "BIBLEMEMORIAL.NISAN10",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 21,
+            "code": "BIBLEMEMORIAL.NISAN10.FOUR",
+            "name": "John 12:20-50",
+            "parent": "BIBLEMEMORIAL.NISAN10",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "code": "BIBLEMEMORIAL.NISAN11",
+      "name": "Nisan 11",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 22,
+            "code": "BIBLEMEMORIAL.NISAN11.ONE",
+            "name": "Matthew 21:19-25:46",
+            "parent": "BIBLEMEMORIAL.NISAN11",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 23,
+            "code": "BIBLEMEMORIAL.NISAN11.TWO",
+            "name": "Mark 11:20-13:37",
+            "parent": "BIBLEMEMORIAL.NISAN11",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 24,
+            "code": "BIBLEMEMORIAL.NISAN11.THREE",
+            "name": "Luke 20:1-21:38",
+            "parent": "BIBLEMEMORIAL.NISAN11",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "code": "BIBLEMEMORIAL.NISAN12",
+      "name": "Nisan 12",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 25,
+            "code": "BIBLEMEMORIAL.NISAN12.ONE",
+            "name": "Matthew 26:1-5, 14-16",
+            "parent": "BIBLEMEMORIAL.NISAN12",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 26,
+            "code": "BIBLEMEMORIAL.NISAN12.TWO",
+            "name": "Mark 14:1, 2, 10, 11",
+            "parent": "BIBLEMEMORIAL.NISAN12",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 27,
+            "code": "BIBLEMEMORIAL.NISAN12.THREE",
+            "name": "Luke 22:1-6",
+            "parent": "BIBLEMEMORIAL.NISAN12",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "code": "BIBLEMEMORIAL.NISAN13",
+      "name": "Nisan 13",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 28,
+            "code": "BIBLEMEMORIAL.NISAN13.ONE",
+            "name": "Matthew 26:17-19",
+            "parent": "BIBLEMEMORIAL.NISAN13",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 29,
+            "code": "BIBLEMEMORIAL.NISAN13.TWO",
+            "name": "Mark 14:12-16",
+            "parent": "BIBLEMEMORIAL.NISAN13",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 30,
+            "code": "BIBLEMEMORIAL.NISAN13.THREE",
+            "name": "Luke 22:7-13",
+            "parent": "BIBLEMEMORIAL.NISAN13",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "code": "BIBLEMEMORIAL.NISAN14",
+      "name": "Nisan 14",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 31,
+            "code": "BIBLEMEMORIAL.NISAN14.ONE",
+            "name": "Matthew 26:20-35",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 32,
+            "code": "BIBLEMEMORIAL.NISAN14.TWO",
+            "name": "Mark 14:17-31",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 33,
+            "code": "BIBLEMEMORIAL.NISAN14.THREE",
+            "name": "Luke 22:14-38",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 34,
+            "code": "BIBLEMEMORIAL.NISAN14.FOUR",
+            "name": "John 13:1-17:26",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 35,
+            "code": "BIBLEMEMORIAL.NISAN14.FIVE",
+            "name": "Matthew 26:36-75",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 36,
+            "code": "BIBLEMEMORIAL.NISAN14.SIX",
+            "name": "Mark 14:32-72",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 37,
+            "code": "BIBLEMEMORIAL.NISAN14.SEVEN",
+            "name": "Luke 22:39-65",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 38,
+            "code": "BIBLEMEMORIAL.NISAN14.EIGHT",
+            "name": "John 18:1-27",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 39,
+            "code": "BIBLEMEMORIAL.NISAN14.NINE",
+            "name": "Matthew 27:1-61",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 40,
+            "code": "BIBLEMEMORIAL.NISAN14.TEN",
+            "name": "Mark 15:1-47",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 41,
+            "code": "BIBLEMEMORIAL.NISAN14.ELEVEN",
+            "name": "Luke 22:66-23:56",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 42,
+            "code": "BIBLEMEMORIAL.NISAN14.TWELVE",
+            "name": "John 18:28-19:42",
+            "parent": "BIBLEMEMORIAL.NISAN14",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 8,
+      "code": "BIBLEMEMORIAL.NISAN15",
+      "name": "Nisan 15",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 43,
+            "code": "BIBLEMEMORIAL.NISAN15.ONE",
+            "name": "Matthew 27:62-66",
+            "parent": "BIBLEMEMORIAL.NISAN15",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "code": "BIBLEMEMORIAL.NISAN16",
+      "name": "Nisan 16",
+      "parent": "BIBLEMEMORIAL",
+      "schedule": 3,
+      "sections": [
+         {
+            "id": 44,
+            "code": "BIBLEMEMORIAL.NISAN16.ONE",
+            "name": "Mark 16:1",
+            "parent": "BIBLEMEMORIAL.NISAN16",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 45,
+            "code": "BIBLEMEMORIAL.NISAN16.TWO",
+            "name": "Matthew 28:1-15",
+            "parent": "BIBLEMEMORIAL.NISAN16",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 46,
+            "code": "BIBLEMEMORIAL.NISAN16.THREE",
+            "name": "Mark 16:2-8",
+            "parent": "BIBLEMEMORIAL.NISAN16",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 47,
+            "code": "BIBLEMEMORIAL.NISAN16.FOUR",
+            "name": "Luke 24:1-49",
+            "parent": "BIBLEMEMORIAL.NISAN16",
+            "schedule": 3,
+            "sections": []
+         },
+         {
+            "id": 48,
+            "code": "BIBLEMEMORIAL.NISAN16.FIVE",
+            "name": "John 20:1-25",
+            "parent": "BIBLEMEMORIAL.NISAN16",
+            "schedule": 3,
+            "sections": []
+         }
+      ]
+   }
+]

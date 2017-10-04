@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "code": "BIBLECHRONO",
+      "name": "Bible - Chronological",
+      "version": 1
+   },
+   {
+      "id": 2,
+      "code": "BIBLECOVER",
+      "name": "Bible - Cover to Cover",
+      "version": 1
+   },
+   {
+      "id": 3,
+      "code": "BIBLEMEMORIAL",
+      "name": "Bible - Memorial Reading",
+      "version": 1
+   },
+   {
+      "id": 4,
+      "code": "WTALL",
+      "name": "The Watchtower!",
+      "version": 1
+   }
+]

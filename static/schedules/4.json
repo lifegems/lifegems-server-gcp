@@ -1,0 +1,4301 @@
+[
+   {
+      "id": 49,
+      "code": "WTALL.2017PUBLIC",
+      "name": "2017 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 50,
+            "code": "WTALL.2017PUBLIC.NO1",
+            "name": "No. 1",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 51,
+            "code": "WTALL.2017PUBLIC.NO2",
+            "name": "No. 2",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 52,
+            "code": "WTALL.2017PUBLIC.NO3",
+            "name": "No. 3",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 53,
+            "code": "WTALL.2017PUBLIC.NO4",
+            "name": "No. 4",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 54,
+            "code": "WTALL.2017PUBLIC.NO5",
+            "name": "No. 5",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 55,
+            "code": "WTALL.2017PUBLIC.NO6",
+            "name": "No. 6",
+            "parent": "WTALL.2017PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 56,
+      "code": "WTALL.2017SIMPLE",
+      "name": "2017 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 57,
+            "code": "WTALL.2017SIMPLE.JAN",
+            "name": "January",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 58,
+            "code": "WTALL.2017SIMPLE.FEB",
+            "name": "February",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 59,
+            "code": "WTALL.2017SIMPLE.MAR",
+            "name": "March",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 60,
+            "code": "WTALL.2017SIMPLE.APR",
+            "name": "April",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 61,
+            "code": "WTALL.2017SIMPLE.MAY",
+            "name": "May",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 62,
+            "code": "WTALL.2017SIMPLE.JUN",
+            "name": "June",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 63,
+            "code": "WTALL.2017SIMPLE.JUL",
+            "name": "July",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 64,
+            "code": "WTALL.2017SIMPLE.AUG",
+            "name": "August",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 65,
+            "code": "WTALL.2017SIMPLE.SEP",
+            "name": "September",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 66,
+            "code": "WTALL.2017SIMPLE.OCT",
+            "name": "October",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 67,
+            "code": "WTALL.2017SIMPLE.NOV",
+            "name": "November",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 68,
+            "code": "WTALL.2017SIMPLE.DEC",
+            "name": "December",
+            "parent": "WTALL.2017SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 69,
+      "code": "WTALL.2017STUDY",
+      "name": "2017 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 70,
+            "code": "WTALL.2017STUDY.JAN",
+            "name": "January",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 71,
+            "code": "WTALL.2017STUDY.FEB",
+            "name": "February",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 72,
+            "code": "WTALL.2017STUDY.MAR",
+            "name": "March",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 73,
+            "code": "WTALL.2017STUDY.APR",
+            "name": "April",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 74,
+            "code": "WTALL.2017STUDY.MAY",
+            "name": "May",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 75,
+            "code": "WTALL.2017STUDY.JUN",
+            "name": "June",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 76,
+            "code": "WTALL.2017STUDY.JUL",
+            "name": "July",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 77,
+            "code": "WTALL.2017STUDY.AUG",
+            "name": "August",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 78,
+            "code": "WTALL.2017STUDY.SEP",
+            "name": "September",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 79,
+            "code": "WTALL.2017STUDY.OCT",
+            "name": "October",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 80,
+            "code": "WTALL.2017STUDY.NOV",
+            "name": "November",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 81,
+            "code": "WTALL.2017STUDY.DEC",
+            "name": "December",
+            "parent": "WTALL.2017STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 82,
+      "code": "WTALL.2016PUBLIC",
+      "name": "2016 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 83,
+            "code": "WTALL.2016PUBLIC.NO1",
+            "name": "No. 1",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 84,
+            "code": "WTALL.2016PUBLIC.NO2",
+            "name": "No. 2",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 85,
+            "code": "WTALL.2016PUBLIC.NO3",
+            "name": "No. 3",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 86,
+            "code": "WTALL.2016PUBLIC.NO4",
+            "name": "No. 4",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 87,
+            "code": "WTALL.2016PUBLIC.NO5",
+            "name": "No. 5",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 88,
+            "code": "WTALL.2016PUBLIC.NO6",
+            "name": "No. 6",
+            "parent": "WTALL.2016PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 89,
+      "code": "WTALL.2016SIMPLE",
+      "name": "2016 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 90,
+            "code": "WTALL.2016SIMPLE.JAN",
+            "name": "January",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 91,
+            "code": "WTALL.2016SIMPLE.FEB",
+            "name": "February",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 92,
+            "code": "WTALL.2016SIMPLE.MAR",
+            "name": "March",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 93,
+            "code": "WTALL.2016SIMPLE.APR",
+            "name": "April",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 94,
+            "code": "WTALL.2016SIMPLE.MAY",
+            "name": "May",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 95,
+            "code": "WTALL.2016SIMPLE.JUN",
+            "name": "June",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 96,
+            "code": "WTALL.2016SIMPLE.JUL",
+            "name": "July",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 97,
+            "code": "WTALL.2016SIMPLE.AUG",
+            "name": "August",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 98,
+            "code": "WTALL.2016SIMPLE.SEP",
+            "name": "September",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 99,
+            "code": "WTALL.2016SIMPLE.OCT",
+            "name": "October",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 100,
+            "code": "WTALL.2016SIMPLE.NOV",
+            "name": "November",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 101,
+            "code": "WTALL.2016SIMPLE.DEC",
+            "name": "December",
+            "parent": "WTALL.2016SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 102,
+      "code": "WTALL.2016STUDY",
+      "name": "2016 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 103,
+            "code": "WTALL.2016STUDY.JAN",
+            "name": "January",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 104,
+            "code": "WTALL.2016STUDY.FEB",
+            "name": "February",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 105,
+            "code": "WTALL.2016STUDY.MAR",
+            "name": "March",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 106,
+            "code": "WTALL.2016STUDY.APR",
+            "name": "April",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 107,
+            "code": "WTALL.2016STUDY.MAY",
+            "name": "May",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 108,
+            "code": "WTALL.2016STUDY.JUN",
+            "name": "June",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 109,
+            "code": "WTALL.2016STUDY.JUL",
+            "name": "July",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 110,
+            "code": "WTALL.2016STUDY.AUG",
+            "name": "August",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 111,
+            "code": "WTALL.2016STUDY.SEP",
+            "name": "September",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 112,
+            "code": "WTALL.2016STUDY.OCT",
+            "name": "October",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 113,
+            "code": "WTALL.2016STUDY.NOV",
+            "name": "November",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 114,
+            "code": "WTALL.2016STUDY.DEC",
+            "name": "December",
+            "parent": "WTALL.2016STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 115,
+      "code": "WTALL.2015PUBLIC",
+      "name": "2015 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 116,
+            "code": "WTALL.2015PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 117,
+            "code": "WTALL.2015PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 118,
+            "code": "WTALL.2015PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 119,
+            "code": "WTALL.2015PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 120,
+            "code": "WTALL.2015PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 121,
+            "code": "WTALL.2015PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 122,
+            "code": "WTALL.2015PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 123,
+            "code": "WTALL.2015PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 124,
+            "code": "WTALL.2015PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 125,
+            "code": "WTALL.2015PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 126,
+            "code": "WTALL.2015PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 127,
+            "code": "WTALL.2015PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2015PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 128,
+      "code": "WTALL.2015SIMPLE",
+      "name": "2015 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 129,
+            "code": "WTALL.2015SIMPLE.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 130,
+            "code": "WTALL.2015SIMPLE.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 131,
+            "code": "WTALL.2015SIMPLE.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 132,
+            "code": "WTALL.2015SIMPLE.APR",
+            "name": "April 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 133,
+            "code": "WTALL.2015SIMPLE.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 134,
+            "code": "WTALL.2015SIMPLE.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 135,
+            "code": "WTALL.2015SIMPLE.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 136,
+            "code": "WTALL.2015SIMPLE.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 137,
+            "code": "WTALL.2015SIMPLE.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 138,
+            "code": "WTALL.2015SIMPLE.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 139,
+            "code": "WTALL.2015SIMPLE.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 140,
+            "code": "WTALL.2015SIMPLE.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2015SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 141,
+      "code": "WTALL.2015STUDY",
+      "name": "2015 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 142,
+            "code": "WTALL.2015STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 143,
+            "code": "WTALL.2015STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 144,
+            "code": "WTALL.2015STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 145,
+            "code": "WTALL.2015STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 146,
+            "code": "WTALL.2015STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 147,
+            "code": "WTALL.2015STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 148,
+            "code": "WTALL.2015STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 149,
+            "code": "WTALL.2015STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 150,
+            "code": "WTALL.2015STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 151,
+            "code": "WTALL.2015STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 152,
+            "code": "WTALL.2015STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 153,
+            "code": "WTALL.2015STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2015STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 154,
+      "code": "WTALL.2014PUBLIC",
+      "name": "2014 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 155,
+            "code": "WTALL.2014PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 156,
+            "code": "WTALL.2014PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 157,
+            "code": "WTALL.2014PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 158,
+            "code": "WTALL.2014PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 159,
+            "code": "WTALL.2014PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 160,
+            "code": "WTALL.2014PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 161,
+            "code": "WTALL.2014PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 162,
+            "code": "WTALL.2014PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 163,
+            "code": "WTALL.2014PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 164,
+            "code": "WTALL.2014PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 165,
+            "code": "WTALL.2014PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 166,
+            "code": "WTALL.2014PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2014PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 167,
+      "code": "WTALL.2014SIMPLE",
+      "name": "2014 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 168,
+            "code": "WTALL.2014SIMPLE.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 169,
+            "code": "WTALL.2014SIMPLE.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 170,
+            "code": "WTALL.2014SIMPLE.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 171,
+            "code": "WTALL.2014SIMPLE.APR",
+            "name": "April 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 172,
+            "code": "WTALL.2014SIMPLE.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 173,
+            "code": "WTALL.2014SIMPLE.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 174,
+            "code": "WTALL.2014SIMPLE.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 175,
+            "code": "WTALL.2014SIMPLE.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 176,
+            "code": "WTALL.2014SIMPLE.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 177,
+            "code": "WTALL.2014SIMPLE.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 178,
+            "code": "WTALL.2014SIMPLE.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 179,
+            "code": "WTALL.2014SIMPLE.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2014SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 180,
+      "code": "WTALL.2014STUDY",
+      "name": "2014 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 181,
+            "code": "WTALL.2014STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 182,
+            "code": "WTALL.2014STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 183,
+            "code": "WTALL.2014STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 184,
+            "code": "WTALL.2014STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 185,
+            "code": "WTALL.2014STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 186,
+            "code": "WTALL.2014STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 187,
+            "code": "WTALL.2014STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 188,
+            "code": "WTALL.2014STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 189,
+            "code": "WTALL.2014STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 190,
+            "code": "WTALL.2014STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 191,
+            "code": "WTALL.2014STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 192,
+            "code": "WTALL.2014STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2014STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 193,
+      "code": "WTALL.2013PUBLIC",
+      "name": "2013 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 194,
+            "code": "WTALL.2013PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 195,
+            "code": "WTALL.2013PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 196,
+            "code": "WTALL.2013PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 197,
+            "code": "WTALL.2013PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 198,
+            "code": "WTALL.2013PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 199,
+            "code": "WTALL.2013PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 200,
+            "code": "WTALL.2013PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 201,
+            "code": "WTALL.2013PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 202,
+            "code": "WTALL.2013PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 203,
+            "code": "WTALL.2013PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 204,
+            "code": "WTALL.2013PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 205,
+            "code": "WTALL.2013PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2013PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 206,
+      "code": "WTALL.2013SIMPLE",
+      "name": "2013 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 207,
+            "code": "WTALL.2013SIMPLE.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 208,
+            "code": "WTALL.2013SIMPLE.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 209,
+            "code": "WTALL.2013SIMPLE.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 210,
+            "code": "WTALL.2013SIMPLE.APR",
+            "name": "April 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 211,
+            "code": "WTALL.2013SIMPLE.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 212,
+            "code": "WTALL.2013SIMPLE.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 213,
+            "code": "WTALL.2013SIMPLE.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 214,
+            "code": "WTALL.2013SIMPLE.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 215,
+            "code": "WTALL.2013SIMPLE.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 216,
+            "code": "WTALL.2013SIMPLE.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 217,
+            "code": "WTALL.2013SIMPLE.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 218,
+            "code": "WTALL.2013SIMPLE.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2013SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 219,
+      "code": "WTALL.2013STUDY",
+      "name": "2013 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 220,
+            "code": "WTALL.2013STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 221,
+            "code": "WTALL.2013STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 222,
+            "code": "WTALL.2013STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 223,
+            "code": "WTALL.2013STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 224,
+            "code": "WTALL.2013STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 225,
+            "code": "WTALL.2013STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 226,
+            "code": "WTALL.2013STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 227,
+            "code": "WTALL.2013STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 228,
+            "code": "WTALL.2013STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 229,
+            "code": "WTALL.2013STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 230,
+            "code": "WTALL.2013STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 231,
+            "code": "WTALL.2013STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2013STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 232,
+      "code": "WTALL.2012PUBLIC",
+      "name": "2012 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 233,
+            "code": "WTALL.2012PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 234,
+            "code": "WTALL.2012PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 235,
+            "code": "WTALL.2012PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 236,
+            "code": "WTALL.2012PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 237,
+            "code": "WTALL.2012PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 238,
+            "code": "WTALL.2012PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 239,
+            "code": "WTALL.2012PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 240,
+            "code": "WTALL.2012PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 241,
+            "code": "WTALL.2012PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 242,
+            "code": "WTALL.2012PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 243,
+            "code": "WTALL.2012PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 244,
+            "code": "WTALL.2012PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2012PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 245,
+      "code": "WTALL.2012SIMPLE",
+      "name": "2012 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 246,
+            "code": "WTALL.2012SIMPLE.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 247,
+            "code": "WTALL.2012SIMPLE.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 248,
+            "code": "WTALL.2012SIMPLE.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 249,
+            "code": "WTALL.2012SIMPLE.APR",
+            "name": "April 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 250,
+            "code": "WTALL.2012SIMPLE.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 251,
+            "code": "WTALL.2012SIMPLE.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 252,
+            "code": "WTALL.2012SIMPLE.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 253,
+            "code": "WTALL.2012SIMPLE.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 254,
+            "code": "WTALL.2012SIMPLE.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 255,
+            "code": "WTALL.2012SIMPLE.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 256,
+            "code": "WTALL.2012SIMPLE.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 257,
+            "code": "WTALL.2012SIMPLE.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2012SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 258,
+      "code": "WTALL.2012STUDY",
+      "name": "2012 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 259,
+            "code": "WTALL.2012STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 260,
+            "code": "WTALL.2012STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 261,
+            "code": "WTALL.2012STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 262,
+            "code": "WTALL.2012STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 263,
+            "code": "WTALL.2012STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 264,
+            "code": "WTALL.2012STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 265,
+            "code": "WTALL.2012STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 266,
+            "code": "WTALL.2012STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 267,
+            "code": "WTALL.2012STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 268,
+            "code": "WTALL.2012STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 269,
+            "code": "WTALL.2012STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 270,
+            "code": "WTALL.2012STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2012STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 271,
+      "code": "WTALL.2011PUBLIC",
+      "name": "2011 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 272,
+            "code": "WTALL.2011PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 273,
+            "code": "WTALL.2011PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 274,
+            "code": "WTALL.2011PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 275,
+            "code": "WTALL.2011PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 276,
+            "code": "WTALL.2011PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 277,
+            "code": "WTALL.2011PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 278,
+            "code": "WTALL.2011PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 279,
+            "code": "WTALL.2011PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 280,
+            "code": "WTALL.2011PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 281,
+            "code": "WTALL.2011PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 282,
+            "code": "WTALL.2011PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 283,
+            "code": "WTALL.2011PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2011PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 284,
+      "code": "WTALL.2011SIMPLE",
+      "name": "2011 - Simplified",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 285,
+            "code": "WTALL.2011SIMPLE.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 286,
+            "code": "WTALL.2011SIMPLE.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 287,
+            "code": "WTALL.2011SIMPLE.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 288,
+            "code": "WTALL.2011SIMPLE.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 289,
+            "code": "WTALL.2011SIMPLE.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 290,
+            "code": "WTALL.2011SIMPLE.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2011SIMPLE",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 291,
+      "code": "WTALL.2011STUDY",
+      "name": "2011 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 292,
+            "code": "WTALL.2011STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 293,
+            "code": "WTALL.2011STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 294,
+            "code": "WTALL.2011STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 295,
+            "code": "WTALL.2011STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 296,
+            "code": "WTALL.2011STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 297,
+            "code": "WTALL.2011STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 298,
+            "code": "WTALL.2011STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 299,
+            "code": "WTALL.2011STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 300,
+            "code": "WTALL.2011STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 301,
+            "code": "WTALL.2011STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 302,
+            "code": "WTALL.2011STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 303,
+            "code": "WTALL.2011STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2011STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 304,
+      "code": "WTALL.2010PUBLIC",
+      "name": "2010 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 305,
+            "code": "WTALL.2010PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 306,
+            "code": "WTALL.2010PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 307,
+            "code": "WTALL.2010PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 308,
+            "code": "WTALL.2010PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 309,
+            "code": "WTALL.2010PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 310,
+            "code": "WTALL.2010PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 311,
+            "code": "WTALL.2010PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 312,
+            "code": "WTALL.2010PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 313,
+            "code": "WTALL.2010PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 314,
+            "code": "WTALL.2010PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 315,
+            "code": "WTALL.2010PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 316,
+            "code": "WTALL.2010PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2010PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 317,
+      "code": "WTALL.2010STUDY",
+      "name": "2010 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 318,
+            "code": "WTALL.2010STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 319,
+            "code": "WTALL.2010STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 320,
+            "code": "WTALL.2010STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 321,
+            "code": "WTALL.2010STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 322,
+            "code": "WTALL.2010STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 323,
+            "code": "WTALL.2010STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 324,
+            "code": "WTALL.2010STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 325,
+            "code": "WTALL.2010STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 326,
+            "code": "WTALL.2010STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 327,
+            "code": "WTALL.2010STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 328,
+            "code": "WTALL.2010STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 329,
+            "code": "WTALL.2010STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2010STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 330,
+      "code": "WTALL.2009PUBLIC",
+      "name": "2009 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 331,
+            "code": "WTALL.2009PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 332,
+            "code": "WTALL.2009PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 333,
+            "code": "WTALL.2009PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 334,
+            "code": "WTALL.2009PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 335,
+            "code": "WTALL.2009PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 336,
+            "code": "WTALL.2009PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 337,
+            "code": "WTALL.2009PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 338,
+            "code": "WTALL.2009PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 339,
+            "code": "WTALL.2009PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 340,
+            "code": "WTALL.2009PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 341,
+            "code": "WTALL.2009PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 342,
+            "code": "WTALL.2009PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2009PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 343,
+      "code": "WTALL.2009STUDY",
+      "name": "2009 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 344,
+            "code": "WTALL.2009STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 345,
+            "code": "WTALL.2009STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 346,
+            "code": "WTALL.2009STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 347,
+            "code": "WTALL.2009STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 348,
+            "code": "WTALL.2009STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 349,
+            "code": "WTALL.2009STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 350,
+            "code": "WTALL.2009STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 351,
+            "code": "WTALL.2009STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 352,
+            "code": "WTALL.2009STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 353,
+            "code": "WTALL.2009STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 354,
+            "code": "WTALL.2009STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 355,
+            "code": "WTALL.2009STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2009STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 356,
+      "code": "WTALL.2008PUBLIC",
+      "name": "2008 - Public",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 357,
+            "code": "WTALL.2008PUBLIC.JAN",
+            "name": "January 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 358,
+            "code": "WTALL.2008PUBLIC.FEB",
+            "name": "February 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 359,
+            "code": "WTALL.2008PUBLIC.MAR",
+            "name": "March 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 360,
+            "code": "WTALL.2008PUBLIC.APR",
+            "name": "April 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 361,
+            "code": "WTALL.2008PUBLIC.MAY",
+            "name": "May 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 362,
+            "code": "WTALL.2008PUBLIC.JUN",
+            "name": "June 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 363,
+            "code": "WTALL.2008PUBLIC.JUL",
+            "name": "July 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 364,
+            "code": "WTALL.2008PUBLIC.AUG",
+            "name": "August 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 365,
+            "code": "WTALL.2008PUBLIC.SEP",
+            "name": "September 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 366,
+            "code": "WTALL.2008PUBLIC.OCT",
+            "name": "October 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 367,
+            "code": "WTALL.2008PUBLIC.NOV",
+            "name": "November 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 368,
+            "code": "WTALL.2008PUBLIC.DEC",
+            "name": "December 1",
+            "parent": "WTALL.2008PUBLIC",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 369,
+      "code": "WTALL.2008STUDY",
+      "name": "2008 - Study",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 370,
+            "code": "WTALL.2008STUDY.JAN",
+            "name": "January 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 371,
+            "code": "WTALL.2008STUDY.FEB",
+            "name": "February 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 372,
+            "code": "WTALL.2008STUDY.MAR",
+            "name": "March 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 373,
+            "code": "WTALL.2008STUDY.APR",
+            "name": "April 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 374,
+            "code": "WTALL.2008STUDY.MAY",
+            "name": "May 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 375,
+            "code": "WTALL.2008STUDY.JUN",
+            "name": "June 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 376,
+            "code": "WTALL.2008STUDY.JUL",
+            "name": "July 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 377,
+            "code": "WTALL.2008STUDY.AUG",
+            "name": "August 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 378,
+            "code": "WTALL.2008STUDY.SEP",
+            "name": "September 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 379,
+            "code": "WTALL.2008STUDY.OCT",
+            "name": "October 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 380,
+            "code": "WTALL.2008STUDY.NOV",
+            "name": "November 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 381,
+            "code": "WTALL.2008STUDY.DEC",
+            "name": "December 15",
+            "parent": "WTALL.2008STUDY",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 382,
+      "code": "WTALL.2007WT",
+      "name": "2007",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 383,
+            "code": "WTALL.2007WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 384,
+            "code": "WTALL.2007WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 385,
+            "code": "WTALL.2007WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 386,
+            "code": "WTALL.2007WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 387,
+            "code": "WTALL.2007WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 388,
+            "code": "WTALL.2007WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 389,
+            "code": "WTALL.2007WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 390,
+            "code": "WTALL.2007WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 391,
+            "code": "WTALL.2007WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 392,
+            "code": "WTALL.2007WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 393,
+            "code": "WTALL.2007WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 394,
+            "code": "WTALL.2007WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 395,
+            "code": "WTALL.2007WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 396,
+            "code": "WTALL.2007WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 397,
+            "code": "WTALL.2007WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 398,
+            "code": "WTALL.2007WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 399,
+            "code": "WTALL.2007WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 400,
+            "code": "WTALL.2007WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 401,
+            "code": "WTALL.2007WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 402,
+            "code": "WTALL.2007WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 403,
+            "code": "WTALL.2007WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 404,
+            "code": "WTALL.2007WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 405,
+            "code": "WTALL.2007WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 406,
+            "code": "WTALL.2007WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2007WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 407,
+      "code": "WTALL.2006WT",
+      "name": "2006",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 408,
+            "code": "WTALL.2006WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 409,
+            "code": "WTALL.2006WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 410,
+            "code": "WTALL.2006WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 411,
+            "code": "WTALL.2006WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 412,
+            "code": "WTALL.2006WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 413,
+            "code": "WTALL.2006WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 414,
+            "code": "WTALL.2006WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 415,
+            "code": "WTALL.2006WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 416,
+            "code": "WTALL.2006WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 417,
+            "code": "WTALL.2006WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 418,
+            "code": "WTALL.2006WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 419,
+            "code": "WTALL.2006WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 420,
+            "code": "WTALL.2006WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 421,
+            "code": "WTALL.2006WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 422,
+            "code": "WTALL.2006WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 423,
+            "code": "WTALL.2006WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 424,
+            "code": "WTALL.2006WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 425,
+            "code": "WTALL.2006WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 426,
+            "code": "WTALL.2006WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 427,
+            "code": "WTALL.2006WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 428,
+            "code": "WTALL.2006WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 429,
+            "code": "WTALL.2006WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 430,
+            "code": "WTALL.2006WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 431,
+            "code": "WTALL.2006WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2006WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 432,
+      "code": "WTALL.2005WT",
+      "name": "2005",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 433,
+            "code": "WTALL.2005WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 434,
+            "code": "WTALL.2005WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 435,
+            "code": "WTALL.2005WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 436,
+            "code": "WTALL.2005WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 437,
+            "code": "WTALL.2005WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 438,
+            "code": "WTALL.2005WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 439,
+            "code": "WTALL.2005WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 440,
+            "code": "WTALL.2005WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 441,
+            "code": "WTALL.2005WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 442,
+            "code": "WTALL.2005WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 443,
+            "code": "WTALL.2005WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 444,
+            "code": "WTALL.2005WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 445,
+            "code": "WTALL.2005WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 446,
+            "code": "WTALL.2005WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 447,
+            "code": "WTALL.2005WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 448,
+            "code": "WTALL.2005WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 449,
+            "code": "WTALL.2005WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 450,
+            "code": "WTALL.2005WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 451,
+            "code": "WTALL.2005WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 452,
+            "code": "WTALL.2005WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 453,
+            "code": "WTALL.2005WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 454,
+            "code": "WTALL.2005WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 455,
+            "code": "WTALL.2005WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 456,
+            "code": "WTALL.2005WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2005WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 457,
+      "code": "WTALL.2004WT",
+      "name": "2004",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 458,
+            "code": "WTALL.2004WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 459,
+            "code": "WTALL.2004WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 460,
+            "code": "WTALL.2004WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 461,
+            "code": "WTALL.2004WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 462,
+            "code": "WTALL.2004WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 463,
+            "code": "WTALL.2004WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 464,
+            "code": "WTALL.2004WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 465,
+            "code": "WTALL.2004WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 466,
+            "code": "WTALL.2004WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 467,
+            "code": "WTALL.2004WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 468,
+            "code": "WTALL.2004WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 469,
+            "code": "WTALL.2004WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 470,
+            "code": "WTALL.2004WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 471,
+            "code": "WTALL.2004WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 472,
+            "code": "WTALL.2004WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 473,
+            "code": "WTALL.2004WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 474,
+            "code": "WTALL.2004WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 475,
+            "code": "WTALL.2004WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 476,
+            "code": "WTALL.2004WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 477,
+            "code": "WTALL.2004WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 478,
+            "code": "WTALL.2004WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 479,
+            "code": "WTALL.2004WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 480,
+            "code": "WTALL.2004WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 481,
+            "code": "WTALL.2004WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2004WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 482,
+      "code": "WTALL.2003WT",
+      "name": "2003",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 483,
+            "code": "WTALL.2003WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 484,
+            "code": "WTALL.2003WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 485,
+            "code": "WTALL.2003WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 486,
+            "code": "WTALL.2003WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 487,
+            "code": "WTALL.2003WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 488,
+            "code": "WTALL.2003WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 489,
+            "code": "WTALL.2003WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 490,
+            "code": "WTALL.2003WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 491,
+            "code": "WTALL.2003WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 492,
+            "code": "WTALL.2003WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 493,
+            "code": "WTALL.2003WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 494,
+            "code": "WTALL.2003WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 495,
+            "code": "WTALL.2003WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 496,
+            "code": "WTALL.2003WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 497,
+            "code": "WTALL.2003WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 498,
+            "code": "WTALL.2003WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 499,
+            "code": "WTALL.2003WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 500,
+            "code": "WTALL.2003WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 501,
+            "code": "WTALL.2003WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 502,
+            "code": "WTALL.2003WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 503,
+            "code": "WTALL.2003WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 504,
+            "code": "WTALL.2003WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 505,
+            "code": "WTALL.2003WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 506,
+            "code": "WTALL.2003WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2003WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 507,
+      "code": "WTALL.2002WT",
+      "name": "2002",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 508,
+            "code": "WTALL.2002WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 509,
+            "code": "WTALL.2002WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 510,
+            "code": "WTALL.2002WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 511,
+            "code": "WTALL.2002WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 512,
+            "code": "WTALL.2002WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 513,
+            "code": "WTALL.2002WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 514,
+            "code": "WTALL.2002WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 515,
+            "code": "WTALL.2002WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 516,
+            "code": "WTALL.2002WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 517,
+            "code": "WTALL.2002WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 518,
+            "code": "WTALL.2002WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 519,
+            "code": "WTALL.2002WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 520,
+            "code": "WTALL.2002WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 521,
+            "code": "WTALL.2002WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 522,
+            "code": "WTALL.2002WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 523,
+            "code": "WTALL.2002WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 524,
+            "code": "WTALL.2002WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 525,
+            "code": "WTALL.2002WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 526,
+            "code": "WTALL.2002WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 527,
+            "code": "WTALL.2002WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 528,
+            "code": "WTALL.2002WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 529,
+            "code": "WTALL.2002WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 530,
+            "code": "WTALL.2002WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 531,
+            "code": "WTALL.2002WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2002WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 532,
+      "code": "WTALL.2001WT",
+      "name": "2001",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 533,
+            "code": "WTALL.2001WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 534,
+            "code": "WTALL.2001WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 535,
+            "code": "WTALL.2001WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 536,
+            "code": "WTALL.2001WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 537,
+            "code": "WTALL.2001WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 538,
+            "code": "WTALL.2001WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 539,
+            "code": "WTALL.2001WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 540,
+            "code": "WTALL.2001WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 541,
+            "code": "WTALL.2001WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 542,
+            "code": "WTALL.2001WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 543,
+            "code": "WTALL.2001WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 544,
+            "code": "WTALL.2001WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 545,
+            "code": "WTALL.2001WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 546,
+            "code": "WTALL.2001WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 547,
+            "code": "WTALL.2001WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 548,
+            "code": "WTALL.2001WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 549,
+            "code": "WTALL.2001WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 550,
+            "code": "WTALL.2001WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 551,
+            "code": "WTALL.2001WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 552,
+            "code": "WTALL.2001WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 553,
+            "code": "WTALL.2001WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 554,
+            "code": "WTALL.2001WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 555,
+            "code": "WTALL.2001WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 556,
+            "code": "WTALL.2001WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2001WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 557,
+      "code": "WTALL.2000WT",
+      "name": "2000",
+      "parent": "WTALL",
+      "schedule": 4,
+      "sections": [
+         {
+            "id": 558,
+            "code": "WTALL.2000WT.JAN1",
+            "name": "January 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 559,
+            "code": "WTALL.2000WT.JAN15",
+            "name": "January 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 560,
+            "code": "WTALL.2000WT.FEB1",
+            "name": "February 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 561,
+            "code": "WTALL.2000WT.FEB15",
+            "name": "February 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 562,
+            "code": "WTALL.2000WT.MAR1",
+            "name": "March 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 563,
+            "code": "WTALL.2000WT.MAR15",
+            "name": "March 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 564,
+            "code": "WTALL.2000WT.APR1",
+            "name": "April 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 565,
+            "code": "WTALL.2000WT.APR15",
+            "name": "April 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 566,
+            "code": "WTALL.2000WT.MAY1",
+            "name": "May 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 567,
+            "code": "WTALL.2000WT.MAY15",
+            "name": "May 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 568,
+            "code": "WTALL.2000WT.JUN1",
+            "name": "June 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 569,
+            "code": "WTALL.2000WT.JUN15",
+            "name": "June 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 570,
+            "code": "WTALL.2000WT.JUL1",
+            "name": "July 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 571,
+            "code": "WTALL.2000WT.JUL15",
+            "name": "July 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 572,
+            "code": "WTALL.2000WT.AUG1",
+            "name": "August 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 573,
+            "code": "WTALL.2000WT.AUG15",
+            "name": "August 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 574,
+            "code": "WTALL.2000WT.SEP1",
+            "name": "September 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 575,
+            "code": "WTALL.2000WT.SEP15",
+            "name": "September 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 576,
+            "code": "WTALL.2000WT.OCT1",
+            "name": "October 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 577,
+            "code": "WTALL.2000WT.OCT15",
+            "name": "October 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 578,
+            "code": "WTALL.2000WT.NOV1",
+            "name": "November 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 579,
+            "code": "WTALL.2000WT.NOV15",
+            "name": "November 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 580,
+            "code": "WTALL.2000WT.DEC1",
+            "name": "December 1",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         },
+         {
+            "id": 581,
+            "code": "WTALL.2000WT.DEC15",
+            "name": "December 15",
+            "parent": "WTALL.2000WT",
+            "schedule": 4,
+            "sections": []
+         }
+      ]
+   }
+]
