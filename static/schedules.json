@@ -22,5 +22,11 @@
       "code": "WTALL",
       "name": "The Watchtower!",
       "version": 1
+   },
+   {
+      "id": 5,
+      "code": "JESUS",
+      "name": "Jesus - The Way, the Truth, the Life",
+      "version": 1
    }
 ]

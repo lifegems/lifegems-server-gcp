@@ -1,0 +1,205 @@
+[
+   {
+      "id": 1,
+      "code": "JESUS.20171218",
+      "name": "December 18, 2017",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 2,
+            "code": "JESUS.20171218.01",
+            "name": "Introduction (Pages 6 and 7)",
+            "parent": "JESUS.20171218",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 3,
+      "code": "JESUS.20171225",
+      "name": "December 25, 2017",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 4,
+            "code": "JESUS.20171225.01",
+            "name": "Chapter 1",
+            "parent": "JESUS.20171225",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "code": "JESUS.20180101",
+      "name": "January 1, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 6,
+            "code": "JESUS.20180101.01",
+            "name": "Chapter 2",
+            "parent": "JESUS.20180101",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "code": "JESUS.20180108",
+      "name": "January 8, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 8,
+            "code": "JESUS.20180108.01",
+            "name": "Chapter 3",
+            "parent": "JESUS.20180108",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 9,
+      "code": "JESUS.20180115",
+      "name": "January 15, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 10,
+            "code": "JESUS.20180115.01",
+            "name": "Chapter 4",
+            "parent": "JESUS.20180115",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 11,
+      "code": "JESUS.20180122",
+      "name": "January 22, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 12,
+            "code": "JESUS.20180122.01",
+            "name": "Chapter 5",
+            "parent": "JESUS.20180122",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 12,
+      "code": "JESUS.20180129",
+      "name": "January 29, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 13,
+            "code": "JESUS.20180129.01",
+            "name": "Chapter 6",
+            "parent": "JESUS.20180129",
+            "schedule": 5,
+            "sections": []
+         },
+         {
+            "id": 14,
+            "code": "JESUS.20180129.02",
+            "name": "Box on Page 20",
+            "parent": "JESUS.20180129",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 15,
+      "code": "JESUS.20180205",
+      "name": "February 5, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 16,
+            "code": "JESUS.20180205.01",
+            "name": "Chapter 7",
+            "parent": "JESUS.20180205",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 17,
+      "code": "JESUS.20180212",
+      "name": "February 12, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 18,
+            "code": "JESUS.20180212.01",
+            "name": "Chapter 8",
+            "parent": "JESUS.20180212",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 19,
+      "code": "JESUS.20180219",
+      "name": "February 19, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 20,
+            "code": "JESUS.20180219.01",
+            "name": "Chapter 9",
+            "parent": "JESUS.20180219",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+   {
+      "id": 21,
+      "code": "JESUS.20180226",
+      "name": "February 26, 2018",
+      "parent": "JESUS",
+      "schedule": 5,
+      "sections": [
+         {
+            "id": 22,
+            "code": "JESUS.20180226.01",
+            "name": "Chapter 10",
+            "parent": "JESUS.20180226",
+            "schedule": 5,
+            "sections": []
+         },
+         {
+            "id": 23,
+            "code": "JESUS.20180226.02",
+            "name": "Box on Page 28",
+            "parent": "JESUS.20180226",
+            "schedule": 5,
+            "sections": []
+         }
+      ]
+   },
+]
